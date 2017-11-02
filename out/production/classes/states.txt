@@ -1,0 +1,4 @@
+q0;true;false
+q1;false;false
+q2;false;true
+3;false;true
